@@ -1,0 +1,16 @@
+/* Application styles */
+body { 
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(100, 116, 139)
+}
+
+#devices {
+    border-radius: .75rem;
+    border: 2 solid red;
+    margin: 20px;
+    background-color: rgb(248, 250, 252)
+}
+
+.device {
+    padding: 10px;
+}
